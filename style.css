@@ -30,7 +30,7 @@ body {
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task-to-add__wrapper {
@@ -66,7 +66,7 @@ button{
 }
 
 .button:hover {
- color: #3a3A3a;
+ color: #3a3a3a;
 }
 
 /* Heading */
@@ -145,12 +145,12 @@ button{
 
 /* Edit Task */
 .task-input-completed{
-  display: none
+  display: none;
 }
 
 .tasks-to-complete__task-to-edit input[type="text"] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .tasks-to-complete__task-to-edit label  {
