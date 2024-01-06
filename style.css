@@ -14,12 +14,12 @@ body {
   width: 100%;
 }
 .eisenhower-matrix-representation__link {
-  font-family: fantasy, cursive;
+ font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.eisenhower-matrix-representation { 
-  text-align: center;
+  .eisenhower-matrix-representation { 
+    text-align: center;
 }
 }
 .tasks-wrapper {
@@ -47,7 +47,7 @@ body {
 .tasks-to-complete__task-saved,
 .tasks-to-complete__task-to-edit,
 .completed-task {
-    list-style:none;
+  list-style:none;
 }
 
 input,
@@ -66,7 +66,7 @@ button{
 }
 
 .button:hover {
-  color: #3a3A3a;
+ color: #3a3A3a;
 }
 
 /* Heading */
@@ -145,8 +145,8 @@ button{
 
 /* Edit Task */
 .task-input-completed{
-    display:none
-  }
+  display:none
+}
 
 .tasks-to-complete__task-to-edit input[type="text"] {
   display:inline-block;
